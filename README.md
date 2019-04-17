@@ -4,3 +4,16 @@
 Salut. allez ! faites vous plaisir.
 
 Il était une fois une jeune demoiselle qui se baladait dans la forêt, c'était un beau jour d'automne, elle trouva une boule de cristal. Mais ne sachant pas ce que cela représentait, elle la laissa sur place et partit.
+
+Mais sa curiosité l'a rattrapa et alla rechercher la boule.
+
+Une fois rentrée chez elle, elle entendit des voix venant de sa trouvaille:
+
+_"git branch ajout"_
+
+_"checkout developpement..."_
+
+_"CA MARCHE PAS"_
+
+
+C'était les voix des âmes damnées des apprenants BeCode...
