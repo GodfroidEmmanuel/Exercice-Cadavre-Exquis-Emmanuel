@@ -17,3 +17,5 @@ _"CA MARCHE PAS"_
 
 
 C'était les voix des âmes damnées des apprenants BeCode...
+
+Des fantomes vêtus de noir aux yeux verts cernés à crever, assoiffés de conflits dans un desert où tout, malheureusement, fonctionnait correctement 
