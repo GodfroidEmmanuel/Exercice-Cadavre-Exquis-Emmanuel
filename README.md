@@ -22,3 +22,5 @@ _Toutes ces voix se mélangeaient et formaient un brouara indescriptible_
 ###Une bonne nuit de sommeil serait la bienvenue, j'ai mal à la tête
 
 Des fantomes vêtus de noir aux yeux verts cernés à crever, assoiffés de conflits dans un desert où tout, malheureusement, fonctionnait correctement
+
+jusqu'au moment où un commit venant de null part, crée un conflit signalant une erreur fatale...
