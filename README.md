@@ -17,3 +17,6 @@ _"CA MARCHE PAS"_
 
 
 C'était les voix des âmes damnées des apprenants BeCode...
+
+_Toutes ces voix se mélangeaient et formaient un brouara indescriptible_
+###Une bonne nuit de sommeil serait la bienvenue, j'ai mal à la tête
